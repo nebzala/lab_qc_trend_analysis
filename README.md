@@ -1,5 +1,5 @@
 # Laboratory QC Data Analysis
-A Python-based analysis of laboratory QC data to evaluate pass/fail trends, identify failure patterns, and asses process stability.
+A Python-based analysis of laboratory QC data to evaluate pass/fail trends, identify failure patterns, and assess process stability.
 
 ## Objective
 Analyze laboratory quality control (QC) data to understand pass/fail trends and identify potential variability in results.
