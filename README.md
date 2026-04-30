@@ -24,7 +24,7 @@ This project simulates laboratory quality control QC) data and analyzes it using
 The process appears generally stable, but periodic failures suggest the need for continued monitoring and potential investigation.
 
 ## Sample Output
-![Pass vs Fail Counts] (pass_fail_counts.png)
+![Pass vs Fail Counts](pass_fail_counts.png)
 This visualization shows that most tests **passed (~76%)**, while a smaller portion **failed (~24%)**, indicating a generally stable QC process. 
 
 
